@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.0](https://github.com/daneel-ai/extension-code/compare/v1.25.0...v1.26.0) (2026-04-16)
+
+
+### Features
+
+* eager YouTube detection and transcript extraction ([#119](https://github.com/daneel-ai/extension-code/issues/119)) ([25a1bf4](https://github.com/daneel-ai/extension-code/commit/25a1bf4ef44a4b68ce5802a0d03e84db27493ecb))
+
 ## [1.25.0](https://github.com/daneel-ai/extension-code/compare/v1.24.0...v1.25.0) (2026-04-16)
 
 
