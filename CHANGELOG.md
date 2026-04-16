@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.25.0](https://github.com/daneel-ai/extension-code/compare/v1.24.0...v1.25.0) (2026-04-16)
+
+
+### Features
+
+* add credits.md generation and sync workflow ([#116](https://github.com/daneel-ai/extension-code/issues/116)) ([8358db1](https://github.com/daneel-ai/extension-code/commit/8358db188ba9d4f8798f9c10ac5066eefde076fb))
+
 ## [1.24.0](https://github.com/daneel-ai/extension-code/compare/v1.23.0...v1.24.0) (2026-04-16)
 
 
