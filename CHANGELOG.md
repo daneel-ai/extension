@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.27.0](https://github.com/daneel-ai/extension-code/compare/v1.26.1...v1.27.0) (2026-04-16)
+
+
+### Features
+
+* **docs:** Changelog and Credits pages from public repo ([#124](https://github.com/daneel-ai/extension-code/issues/124)) ([bcc68a3](https://github.com/daneel-ai/extension-code/commit/bcc68a3e56f18eb0d620ca495f51520161aaaec7))
+
 ## [1.26.1](https://github.com/daneel-ai/extension-code/compare/v1.26.0...v1.26.1) (2026-04-16)
 
 
