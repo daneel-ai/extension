@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.26.1](https://github.com/daneel-ai/extension-code/compare/v1.26.0...v1.26.1) (2026-04-16)
+
+
+### Bug Fixes
+
+* JSON Feed spec compliance (content_html + content_text) ([#122](https://github.com/daneel-ai/extension-code/issues/122)) ([712b634](https://github.com/daneel-ai/extension-code/commit/712b634a2755c185cec7cc1e54d8c7b9273d37b8))
+
 ## [1.26.0](https://github.com/daneel-ai/extension-code/compare/v1.25.0...v1.26.0) (2026-04-16)
 
 
