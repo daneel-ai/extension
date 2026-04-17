@@ -24,8 +24,10 @@ Daneel AI is built on the shoulders of these open-source projects:
 | **graphology-shortest-path** | `2.1.0` | Shortest path functions for graphology. | [npm](https://github.com/graphology/graphology#readme) |
 | **graphology-types** | `0.24.8` | TypeScript declaration for graphology. | [npm](https://github.com/graphology/graphology#readme) |
 | **idb** | `8.0.3` | A small wrapper that makes IndexedDB usable | [npm](https://github.com/jakearchibald/idb#readme) |
+| **katex** | `0.16.45` | Fast math typesetting for the web. | [npm](https://katex.org) |
 | **mammoth** | `1.12.0` | Convert Word documents from docx to simple HTML and Markdown | [npm](https://github.com/mwilliamson/mammoth.js#readme) |
 | **marked** | `17.0.4` | A markdown parser built for speed | [npm](https://marked.js.org) |
+| **marked-katex-extension** | `5.1.8` | MarkedJS extesion to render katex | [npm](https://github.com/UziTech/marked-katex-extension#readme) |
 | **oauth4webapi** | `3.8.5` | Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes | [npm](https://github.com/panva/oauth4webapi) |
 | **turndown** | `7.2.4` | A library that converts HTML to Markdown | [npm](https://github.com/mixmark-io/turndown#readme) |
 | **turndown-plugin-gfm** | `1.0.2` | Turndown plugin to add GitHub Flavored Markdown extensions. | [npm](https://github.com/domchristie/turndown-plugin-gfm#readme) |
