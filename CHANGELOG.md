@@ -1,5 +1,22 @@
 # Changelog
 
+## [1.28.0](https://github.com/daneel-ai/extension-code/compare/v1.27.0...v1.28.0) (2026-04-17)
+
+
+### Features
+
+* **context:** context injection preview + per-vault controls ([#131](https://github.com/daneel-ai/extension-code/issues/131)) ([18f74d8](https://github.com/daneel-ai/extension-code/commit/18f74d8d976748dd31cc2bcb2abbe3d8a19de8ed))
+* **news:** agentic development workflow article ([#129](https://github.com/daneel-ai/extension-code/issues/129)) ([21ed61c](https://github.com/daneel-ai/extension-code/commit/21ed61c3a83040ebc70ddb441214f4b2930f232a))
+* **vault:** chat UI redesign, tool traces column, model attribution + mcp: force final synthesis ([#132](https://github.com/daneel-ai/extension-code/issues/132)) ([13b9a32](https://github.com/daneel-ai/extension-code/commit/13b9a32482444a00f629dae8bc50ea6a1e8a9f1f))
+* **widget:** KaTeX math rendering + build hardening ([#133](https://github.com/daneel-ai/extension-code/issues/133)) ([9ac76be](https://github.com/daneel-ai/extension-code/commit/9ac76be5229c21a295fec31f035119b4767720a8))
+* **widget:** mermaid diagram rendering in chat ([#137](https://github.com/daneel-ai/extension-code/issues/137)) ([a93bd30](https://github.com/daneel-ai/extension-code/commit/a93bd30d23ea32be3997f40232459a8582be7a21))
+
+
+### Bug Fixes
+
+* **news:** async walkTokens for shiki code highlighting ([#135](https://github.com/daneel-ai/extension-code/issues/135)) ([ddc4020](https://github.com/daneel-ai/extension-code/commit/ddc402069db79de5941f09d41e3448fdd4019fce))
+* **news:** render KaTeX math in article pipeline ([#134](https://github.com/daneel-ai/extension-code/issues/134)) ([1d344cb](https://github.com/daneel-ai/extension-code/commit/1d344cbdeaa6ea66ccb4bd382ca898f44c6768f5))
+
 ## [1.27.0](https://github.com/daneel-ai/extension-code/compare/v1.26.1...v1.27.0) (2026-04-16)
 
 
