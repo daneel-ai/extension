@@ -32,3 +32,4 @@ Daneel AI is built on the shoulders of these open-source projects:
 | **oauth4webapi** | `3.8.5` | Low-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes | [npm](https://github.com/panva/oauth4webapi) |
 | **turndown** | `7.2.4` | A library that converts HTML to Markdown | [npm](https://github.com/mixmark-io/turndown#readme) |
 | **turndown-plugin-gfm** | `1.0.2` | Turndown plugin to add GitHub Flavored Markdown extensions. | [npm](https://github.com/domchristie/turndown-plugin-gfm#readme) |
+| **wikibase-sdk** | `11.2.7` | utils functions to query a Wikibase instance and simplify its results | [npm](https://github.com/maxlath/wikibase-sdk) |
