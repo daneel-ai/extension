@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.32.0](https://github.com/daneel-ai/extension-code/compare/v1.31.0...v1.32.0) (2026-04-18)
+
+
+### Features
+
+* **wikidata:** fact-box panel with reconciliation, caching, and telemetry template ([#144](https://github.com/daneel-ai/extension-code/issues/144)) ([35b2e96](https://github.com/daneel-ai/extension-code/commit/35b2e961195992fd7428d6af2923cfa20a98335e))
+
 ## [1.31.0](https://github.com/daneel-ai/extension-code/compare/v1.30.0...v1.31.0) (2026-04-18)
 
 
