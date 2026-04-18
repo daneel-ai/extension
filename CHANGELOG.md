@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.31.0](https://github.com/daneel-ai/extension-code/compare/v1.30.0...v1.31.0) (2026-04-18)
+
+
+### Features
+
+* **offline:** full offline mode + news article + docs ([#142](https://github.com/daneel-ai/extension-code/issues/142)) ([77f8534](https://github.com/daneel-ai/extension-code/commit/77f8534504682c422a57228534b234c990b3cdd0))
+
 ## [1.30.0](https://github.com/daneel-ai/extension-code/compare/v1.29.0...v1.30.0) (2026-04-18)
 
 
