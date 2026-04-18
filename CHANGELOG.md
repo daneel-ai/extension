@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.30.0](https://github.com/daneel-ai/extension-code/compare/v1.29.0...v1.30.0) (2026-04-18)
+
+
+### Features
+
+* **settings:** models storage panel ([#140](https://github.com/daneel-ai/extension-code/issues/140)) ([bd14faa](https://github.com/daneel-ai/extension-code/commit/bd14faad445fca445107dd781be23e4bc171c865))
+
 ## [1.29.0](https://github.com/daneel-ai/extension-code/compare/v1.28.0...v1.29.0) (2026-04-18)
 
 
