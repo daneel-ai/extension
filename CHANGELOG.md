@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.29.0](https://github.com/daneel-ai/extension-code/compare/v1.28.0...v1.29.0) (2026-04-18)
+
+
+### Features
+
+* **widget:** hide in fullscreen + per-site kill switch ([#138](https://github.com/daneel-ai/extension-code/issues/138)) ([e2bba9c](https://github.com/daneel-ai/extension-code/commit/e2bba9c5948ea4042ebb0ece3eb897cd50d4f145))
+
 ## [1.28.0](https://github.com/daneel-ai/extension-code/compare/v1.27.0...v1.28.0) (2026-04-17)
 
 
