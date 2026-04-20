@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.33.0](https://github.com/daneel-ai/extension-code/compare/v1.32.0...v1.33.0) (2026-04-20)
+
+
+### Features
+
+* **settings:** knowledge graphs in Indexes panel with size bars ([#146](https://github.com/daneel-ai/extension-code/issues/146)) ([c6abaf8](https://github.com/daneel-ai/extension-code/commit/c6abaf8262bbdc6079e3cd4d7f23bab69ffaa57d))
+
 ## [1.32.0](https://github.com/daneel-ai/extension-code/compare/v1.31.0...v1.32.0) (2026-04-18)
 
 
