@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.33.1](https://github.com/daneel-ai/extension-code/compare/v1.33.0...v1.33.1) (2026-04-20)
+
+
+### Bug Fixes
+
+* **settings:** mask license key in active status ([#148](https://github.com/daneel-ai/extension-code/issues/148)) ([469c929](https://github.com/daneel-ai/extension-code/commit/469c929d2d2e65e3cad9d5fc01819e6ecf46a8fb))
+
 ## [1.33.0](https://github.com/daneel-ai/extension-code/compare/v1.32.0...v1.33.0) (2026-04-20)
 
 
