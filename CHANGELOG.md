@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.40.0](https://github.com/daneel-ai/extension-code/compare/v1.39.0...v1.40.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M2c — createSpeechControls routes to KokoroTTSProvider when selected ([#171](https://github.com/daneel-ai/extension-code/issues/171)) ([07d4337](https://github.com/daneel-ai/extension-code/commit/07d4337fb0307a0fdec7d1ddae4a333cb950ab30))
+
 ## [1.39.0](https://github.com/daneel-ai/extension-code/compare/v1.38.0...v1.39.0) (2026-04-21)
 
 
