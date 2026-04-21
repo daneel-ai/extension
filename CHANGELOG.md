@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.40.2](https://github.com/daneel-ai/extension-code/compare/v1.40.1...v1.40.2) (2026-04-21)
+
+
+### Documentation
+
+* **speech:** CLAUDE.md + docs site (3 pages) + Settings docsLinks + news article ([#177](https://github.com/daneel-ai/extension-code/issues/177)) ([5d1343b](https://github.com/daneel-ai/extension-code/commit/5d1343bc17c6614ddbbe23d26f7be8c1414aaaf6))
+
 ## [1.40.1](https://github.com/daneel-ai/extension-code/compare/v1.40.0...v1.40.1) (2026-04-21)
 
 
