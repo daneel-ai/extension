@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.0](https://github.com/daneel-ai/extension-code/compare/v1.33.1...v1.34.0) (2026-04-21)
+
+
+### Features
+
+* **webgpu:** LFM2 gen-param matrix + progress UX + registry-driven vault RAG ([#150](https://github.com/daneel-ai/extension-code/issues/150)) ([90417a8](https://github.com/daneel-ai/extension-code/commit/90417a838ca252e4b66568238ddbcceb176f18de))
+
 ## [1.33.1](https://github.com/daneel-ai/extension-code/compare/v1.33.0...v1.33.1) (2026-04-20)
 
 
