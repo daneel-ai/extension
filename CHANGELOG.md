@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.2](https://github.com/daneel-ai/extension-code/compare/v1.34.1...v1.34.2) (2026-04-21)
+
+
+### Code Refactoring
+
+* **chat:** unify chat surface across Page/Site/Vault ([#154](https://github.com/daneel-ai/extension-code/issues/154)) ([9b921d4](https://github.com/daneel-ai/extension-code/commit/9b921d47112310d4793b8368e4a4979774fb31c5))
+
 ## [1.34.1](https://github.com/daneel-ai/extension-code/compare/v1.34.0...v1.34.1) (2026-04-21)
 
 
