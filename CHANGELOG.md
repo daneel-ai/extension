@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.34.1](https://github.com/daneel-ai/extension-code/compare/v1.34.0...v1.34.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* **vault:** live context preview, MCP disabled-state filter, picker freshness ([#152](https://github.com/daneel-ai/extension-code/issues/152)) ([e7f184a](https://github.com/daneel-ai/extension-code/commit/e7f184a7ee64dcdea7e704708b3a3667186f1b4c))
+
 ## [1.34.0](https://github.com/daneel-ai/extension-code/compare/v1.33.1...v1.34.0) (2026-04-21)
 
 
