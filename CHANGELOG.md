@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.40.1](https://github.com/daneel-ai/extension-code/compare/v1.40.0...v1.40.1) (2026-04-21)
+
+
+### Bug Fixes
+
+* **speech:** Kokoro card unselectable + voice picker missing + stale voice-id leak ([#173](https://github.com/daneel-ai/extension-code/issues/173)) ([09d034e](https://github.com/daneel-ai/extension-code/commit/09d034e7f51da0413fbd8df8f6a359d2ac5f5e99))
+
 ## [1.40.0](https://github.com/daneel-ai/extension-code/compare/v1.39.0...v1.40.0) (2026-04-21)
 
 
