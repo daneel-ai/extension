@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.36.0](https://github.com/daneel-ai/extension-code/compare/v1.35.0...v1.36.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M1c — UI wiring (settings panel, mic + play buttons, shortcut) ([#162](https://github.com/daneel-ai/extension-code/issues/162)) ([3f994d9](https://github.com/daneel-ai/extension-code/commit/3f994d99a5b9cd175f87756e8a6a939db7c85c1b))
+
 ## [1.35.0](https://github.com/daneel-ai/extension-code/compare/v1.34.2...v1.35.0) (2026-04-21)
 
 
