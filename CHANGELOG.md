@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.35.0](https://github.com/daneel-ai/extension-code/compare/v1.34.2...v1.35.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M1 foundation — settings, catalog, privacy, interfaces, pure logic ([#157](https://github.com/daneel-ai/extension-code/issues/157)) ([b365e09](https://github.com/daneel-ai/extension-code/commit/b365e09bb631c8711a4ab6e4a00dfd855a2a5407))
+* **speech:** M1b — WebSpeechTTSProvider + WebSpeechSTTProvider + contracts ([#161](https://github.com/daneel-ai/extension-code/issues/161)) ([29f1aa1](https://github.com/daneel-ai/extension-code/commit/29f1aa1346ec7641fa7609c47124b67a60ebef23))
+
 ## [1.34.2](https://github.com/daneel-ai/extension-code/compare/v1.34.1...v1.34.2) (2026-04-21)
 
 
