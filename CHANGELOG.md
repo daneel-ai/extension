@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.38.0](https://github.com/daneel-ai/extension-code/compare/v1.37.0...v1.38.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M2a — Kokoro provider + host PlaybackQueue + worker ([#166](https://github.com/daneel-ai/extension-code/issues/166)) ([94ff43b](https://github.com/daneel-ai/extension-code/commit/94ff43b355e0fd39c7a187b77646c8511797ea56))
+
+
+### Bug Fixes
+
+* **speech:** wire autoRead — new assistant messages auto-play when enabled ([#168](https://github.com/daneel-ai/extension-code/issues/168)) ([6e9ca93](https://github.com/daneel-ai/extension-code/commit/6e9ca93702ff38c9549058d0d1d087c2fc26f8c2))
+
 ## [1.37.0](https://github.com/daneel-ai/extension-code/compare/v1.36.0...v1.37.0) (2026-04-21)
 
 
