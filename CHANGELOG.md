@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.37.0](https://github.com/daneel-ai/extension-code/compare/v1.36.0...v1.37.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M1d — wire mic + play buttons end-to-end in ChatOverlay + VaultOverlay ([#164](https://github.com/daneel-ai/extension-code/issues/164)) ([3551998](https://github.com/daneel-ai/extension-code/commit/35519988d61963a0ede3eb3047ffb18cf9d107e9))
+
 ## [1.36.0](https://github.com/daneel-ai/extension-code/compare/v1.35.0...v1.36.0) (2026-04-21)
 
 
