@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.39.0](https://github.com/daneel-ai/extension-code/compare/v1.38.0...v1.39.0) (2026-04-21)
+
+
+### Features
+
+* **speech:** M2b — Kokoro download button + progress + cached-state detection ([#169](https://github.com/daneel-ai/extension-code/issues/169)) ([d963874](https://github.com/daneel-ai/extension-code/commit/d9638741c8d581231adc15b0b2c6b7390da350fb))
+
 ## [1.38.0](https://github.com/daneel-ai/extension-code/compare/v1.37.0...v1.38.0) (2026-04-21)
 
 
