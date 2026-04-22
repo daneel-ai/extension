@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.43.0](https://github.com/daneel-ai/extension-code/compare/v1.42.2...v1.43.0) (2026-04-22)
+
+
+### Features
+
+* **chat:** search_images tool via swappable ImageSearchProvider ([#190](https://github.com/daneel-ai/extension-code/issues/190)) ([5076ceb](https://github.com/daneel-ai/extension-code/commit/5076ceb4907b651cd7479805e1a9c745f9d19f1e))
+* **chat:** universal fetch_url tool with abuse guardrails ([#188](https://github.com/daneel-ai/extension-code/issues/188)) ([944e871](https://github.com/daneel-ai/extension-code/commit/944e8715f378cfc98d57d23916d07d0378b229e4))
+
+
+### Documentation
+
+* **search-images:** correct DDG safesearch claim + opt-in integration test ([#191](https://github.com/daneel-ai/extension-code/issues/191)) ([6229d56](https://github.com/daneel-ai/extension-code/commit/6229d56bd1429100eff16b7331d3195afc4ba9f6))
+
 ## [1.42.2](https://github.com/daneel-ai/extension-code/compare/v1.42.1...v1.42.2) (2026-04-22)
 
 
