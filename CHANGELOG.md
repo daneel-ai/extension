@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.44.0](https://github.com/daneel-ai/extension-code/compare/v1.43.0...v1.44.0) (2026-04-22)
+
+
+### Features
+
+* **site:** hardware-check benchmark + RC-only CTAs ([#194](https://github.com/daneel-ai/extension-code/issues/194)) ([31eef16](https://github.com/daneel-ai/extension-code/commit/31eef16ad408f99d9245f8a1946f5ed7eb9f8f5a))
+* **site:** route RC CTAs to GitHub issue-form template ([#195](https://github.com/daneel-ai/extension-code/issues/195)) ([348c2d7](https://github.com/daneel-ai/extension-code/commit/348c2d71eb0ead00fbe569ac46c93769d82294b4))
+
+
+### Documentation
+
+* **claude:** add OS Notifications planned-feature section to backlog ([#192](https://github.com/daneel-ai/extension-code/issues/192)) ([3e6b4e2](https://github.com/daneel-ai/extension-code/commit/3e6b4e244e7e5c2b37d127ed26f5304a3bb266c0))
+
 ## [1.43.0](https://github.com/daneel-ai/extension-code/compare/v1.42.2...v1.43.0) (2026-04-22)
 
 
