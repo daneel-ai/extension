@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.45.0](https://github.com/daneel-ai/extension-code/compare/v1.44.0...v1.45.0) (2026-04-22)
+
+
+### Features
+
+* **site:** UTM-tag syndication feed click destinations ([#196](https://github.com/daneel-ai/extension-code/issues/196)) ([d4ea212](https://github.com/daneel-ai/extension-code/commit/d4ea212b7f1f763253870da157a48145add8b7e8))
+
+
+### Bug Fixes
+
+* **site:** escape & in UTM-tagged URLs emitted in RSS and Atom ([#198](https://github.com/daneel-ai/extension-code/issues/198)) ([99ce906](https://github.com/daneel-ai/extension-code/commit/99ce90656a4ed11536b6a6d378351b834b9582b7))
+
 ## [1.44.0](https://github.com/daneel-ai/extension-code/compare/v1.43.0...v1.44.0) (2026-04-22)
 
 
