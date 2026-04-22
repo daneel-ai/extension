@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.42.1](https://github.com/daneel-ai/extension-code/compare/v1.42.0...v1.42.1) (2026-04-22)
+
+
+### Bug Fixes
+
+* **rag:** wire augmentWithLiteralMatches into SiteSourceIndex + VaultSourceIndex ([#184](https://github.com/daneel-ai/extension-code/issues/184)) ([550584e](https://github.com/daneel-ai/extension-code/commit/550584e563753eb2378419c4dae3896d7cbf4cb0))
+
 ## [1.42.0](https://github.com/daneel-ai/extension-code/compare/v1.41.0...v1.42.0) (2026-04-22)
 
 
