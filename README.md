@@ -1,3 +1,5 @@
+![Daneel AI](https://daneel.injen.io/medias/extension/settings/home_daneel.png)
+
 # Daneel AI
 
 A browser extension that lets you chat with any website, local documents, or MCP-connected tools — with AI that can run 100% in your browser. No cloud, no API keys, no data leaves your machine.
@@ -9,4 +11,4 @@ A browser extension that lets you chat with any website, local documents, or MCP
 
 ---
 
-*Daneel is currently in private Release Candidate. This repository hosts issue tracking and community resources; the extension source is managed privately during RC and will be published on public release.*
+*Daneel is currently in private Release Candidate. This repository hosts issue tracking and community resources.*
