@@ -1,4 +1,4 @@
-![Daneel AI](https://daneel.injen.io/medias/extension/settings/home_daneel.png)
+![Daneel AI](https://daneel.injen.io/medias/extension/settings/home_asimov.png)
 
 # Daneel AI
 
