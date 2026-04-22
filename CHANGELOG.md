@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.41.0](https://github.com/daneel-ai/extension-code/compare/v1.40.2...v1.41.0) (2026-04-22)
+
+
+### Features
+
+* **mcp:** 20 new featured servers + tags field on FeaturedMcpServer ([#178](https://github.com/daneel-ai/extension-code/issues/178)) ([cf61182](https://github.com/daneel-ai/extension-code/commit/cf6118293988d46862aaec39adeb758e37f07f76))
+
 ## [1.40.2](https://github.com/daneel-ai/extension-code/compare/v1.40.1...v1.40.2) (2026-04-21)
 
 
