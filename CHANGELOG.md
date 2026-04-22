@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.42.0](https://github.com/daneel-ai/extension-code/compare/v1.41.0...v1.42.0) (2026-04-22)
+
+
+### Features
+
+* **embeddings:** asymmetric query/passage prefix support ([#181](https://github.com/daneel-ai/extension-code/issues/181)) ([8962d75](https://github.com/daneel-ai/extension-code/commit/8962d7508b8ccaf101ce5f66f85cc1c5fffca701))
+
+
+### Documentation
+
+* **wrap:** embedding-prefix notes + article copy refinements ([#183](https://github.com/daneel-ai/extension-code/issues/183)) ([1878a0e](https://github.com/daneel-ai/extension-code/commit/1878a0eb1ec9c8b76a7668bb7f6302bb23bad7ec))
+
 ## [1.41.0](https://github.com/daneel-ai/extension-code/compare/v1.40.2...v1.41.0) (2026-04-22)
 
 
