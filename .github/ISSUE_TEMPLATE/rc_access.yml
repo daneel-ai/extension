@@ -1,0 +1,85 @@
+name: RC Access Request
+description: Request invitation to the Daneel AI private Release Candidate
+title: "RC access request"
+labels: ["rc-access-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in **Daneel AI**! We're running a private
+        Release Candidate while we finalize the public launch. Tell us a
+        bit about your setup and how you'd like to use Daneel, and we'll
+        reach out with a packaged build.
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Daneel AI currently supports Chromium-based desktop browsers.
+      options:
+        - Chrome
+        - Edge
+        - Brave
+        - Arc
+        - Opera
+        - Vivaldi
+        - Other (specify below)
+    validations:
+      required: true
+
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - Windows
+        - macOS (Intel)
+        - macOS (Apple Silicon)
+        - Linux
+        - Other (specify below)
+    validations:
+      required: true
+
+  - type: input
+    id: gpu
+    attributes:
+      label: GPU (if known)
+      description: 'e.g. "NVIDIA RTX 4070 Ti", "Apple M2 Pro", "Intel Iris Xe". Leave blank if unsure — you can also paste the result of the "Check my hardware" benchmark on daneel.injen.io.'
+      placeholder: "NVIDIA RTX 5060 — ~8 GB VRAM"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: primary_use
+    attributes:
+      label: Primary intended use
+      description: You can pick more than one in the free-text field below — this is just the top-of-mind one.
+      options:
+        - Page Q&A (chat with the current page)
+        - Site RAG (index an entire website)
+        - Document vault (local PDF / DOCX / Markdown RAG)
+        - Knowledge graph extraction & visualization
+        - MCP tool integration / agents
+        - Offline / air-gapped workflow
+        - Kicking the tires — just curious
+    validations:
+      required: true
+
+  - type: textarea
+    id: use_case
+    attributes:
+      label: Tell us a bit more
+      description: A sentence or two on what you want to use Daneel for — the more concrete, the better for us to prioritize.
+      placeholder: "I maintain a local archive of research papers and want to chat with them without shipping content to OpenAI..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgment
+    attributes:
+      label: Acknowledgment
+      options:
+        - label: I understand this is pre-release software and may have bugs or rough edges.
+          required: true
+        - label: I agree to report issues and share feedback as I use it.
+          required: true
