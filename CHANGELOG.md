@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.42.2](https://github.com/daneel-ai/extension-code/compare/v1.42.1...v1.42.2) (2026-04-22)
+
+
+### Documentation
+
+* **rag:** mark SourceIndex augmentWithLiteralMatches as shipped ([#186](https://github.com/daneel-ai/extension-code/issues/186)) ([418056e](https://github.com/daneel-ai/extension-code/commit/418056e652bc021d453241138e71d588a7980b69))
+
 ## [1.42.1](https://github.com/daneel-ai/extension-code/compare/v1.42.0...v1.42.1) (2026-04-22)
 
 
