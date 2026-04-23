@@ -1,4 +1,4 @@
-<img src="https://daneel.injen.io/medias/extension/settings/home.png" style="border-radius:12xp;border:2px solid black" />
+<img src="/assets/home.png" />
 
 # Daneel AI
 
