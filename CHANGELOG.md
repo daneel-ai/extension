@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.46.0](https://github.com/daneel-ai/extension-code/compare/v1.45.0...v1.46.0) (2026-04-23)
+
+
+### Features
+
+* **extension:** Data I/O as long-running tasks + OS toast notifications + KG in backups ([#199](https://github.com/daneel-ai/extension-code/issues/199)) ([aad0fbe](https://github.com/daneel-ai/extension-code/commit/aad0fbe878ce4e90157474d17e70d1bf0e878114))
+
 ## [1.45.0](https://github.com/daneel-ai/extension-code/compare/v1.44.0...v1.45.0) (2026-04-22)
 
 
