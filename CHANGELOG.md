@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.48.1](https://github.com/daneel-ai/extension-code/compare/v1.48.0...v1.48.1) (2026-04-24)
+
+
+### Documentation
+
+* unlock paid features + manage license key ([#208](https://github.com/daneel-ai/extension-code/issues/208)) ([bbe530e](https://github.com/daneel-ai/extension-code/commit/bbe530e1805745bb1ad283351ccfe98801529c5c))
+
 ## [1.48.0](https://github.com/daneel-ai/extension-code/compare/v1.47.0...v1.48.0) (2026-04-24)
 
 
