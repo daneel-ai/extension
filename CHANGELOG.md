@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.49.0](https://github.com/daneel-ai/extension-code/compare/v1.48.1...v1.49.0) (2026-04-24)
+
+
+### Features
+
+* simplify license recovery to email-only ([#210](https://github.com/daneel-ai/extension-code/issues/210)) ([fbeba3f](https://github.com/daneel-ai/extension-code/commit/fbeba3fbf3702d413da204789e4de09481018b03))
+
+
+### Bug Fixes
+
+* **site:** public home renders correctly on mobile ([#212](https://github.com/daneel-ai/extension-code/issues/212)) ([f2fe1a4](https://github.com/daneel-ai/extension-code/commit/f2fe1a4174137164bde57a7323c5e0714fe80d61))
+
 ## [1.48.1](https://github.com/daneel-ai/extension-code/compare/v1.48.0...v1.48.1) (2026-04-24)
 
 
