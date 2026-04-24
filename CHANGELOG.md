@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.47.0](https://github.com/daneel-ai/extension-code/compare/v1.46.0...v1.47.0) (2026-04-24)
+
+
+### Features
+
+* **extension:** link the privacy policy from Settings &gt; Privacy ([#204](https://github.com/daneel-ai/extension-code/issues/204)) ([4bb0df0](https://github.com/daneel-ai/extension-code/commit/4bb0df0af13ce65cca96ba60af9dca552f6bb192))
+* **site:** Chrome Web Store-compliant privacy policy + static pages pipeline ([#202](https://github.com/daneel-ai/extension-code/issues/202)) ([22ad96e](https://github.com/daneel-ai/extension-code/commit/22ad96e88da86a2cb5f9302f3947d81207c375dc))
+
 ## [1.46.0](https://github.com/daneel-ai/extension-code/compare/v1.45.0...v1.46.0) (2026-04-23)
 
 
