@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.48.0](https://github.com/daneel-ai/extension-code/compare/v1.47.0...v1.48.0) (2026-04-24)
+
+
+### Features
+
+* transactional emails + two-factor license recovery ([#207](https://github.com/daneel-ai/extension-code/issues/207)) ([d61d4ed](https://github.com/daneel-ai/extension-code/commit/d61d4ed7c966416b7afadea511970e5145bdfd73))
+
+
+### Bug Fixes
+
+* CI coverage-job race + Privacy Policy tab inline rendering ([#205](https://github.com/daneel-ai/extension-code/issues/205)) ([e2e1d51](https://github.com/daneel-ai/extension-code/commit/e2e1d5129959356ec0a41aca87a1fb8f6052d2a3))
+
 ## [1.47.0](https://github.com/daneel-ai/extension-code/compare/v1.46.0...v1.47.0) (2026-04-24)
 
 
