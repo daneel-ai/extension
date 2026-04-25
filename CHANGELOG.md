@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.50.0](https://github.com/daneel-ai/extension-code/compare/v1.49.0...v1.50.0) (2026-04-25)
+
+
+### Features
+
+* **research:** add /research and /paper skills with publishing pipeline ([#213](https://github.com/daneel-ai/extension-code/issues/213)) ([6373b5b](https://github.com/daneel-ai/extension-code/commit/6373b5b8337f4dea12cc38ff36c69be61e77ad2c))
+
 ## [1.49.0](https://github.com/daneel-ai/extension-code/compare/v1.48.1...v1.49.0) (2026-04-24)
 
 
